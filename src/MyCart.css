@@ -1,0 +1,33 @@
+
+.mycart-container {
+    padding: 20px;
+  }
+  
+  .cart-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .cart-header {
+    font-size: 20px;
+  }
+  
+  .cart-details {
+    font-size: 16px;
+  }
+  
+  .order-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  

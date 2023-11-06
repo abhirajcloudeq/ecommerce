@@ -1,0 +1,33 @@
+
+.home-container {
+    text-align: center;
+    padding: 20px;
+    background-image: url("D:\ecommerce project\ecommerce\src\images\wp3152222.jpg");
+    background-size: cover;
+    background-position: no-repeat;
+    color: white;
+    padding: 20px;
+    height: 1000px; 
+    
+  }
+  
+  .home-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .home-description {
+    font-size: 16px;
+    color: #666;
+  }
+  .product-image {
+    max-width: 50%; 
+    height: auto;
+    padding-left: 20px;
+  }
+  .details{
+
+    padding-right: 1100px;
+  }
+  
+  

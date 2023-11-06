@@ -1,0 +1,26 @@
+
+.orders-container {
+    padding: 20px;
+  }
+  
+  .orders-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .order-item {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .order-header {
+    font-size: 20px;
+  }
+  
+  .order-details {
+    font-size: 16px;
+  }
+  
+  /* Add more styles as needed */
+  
