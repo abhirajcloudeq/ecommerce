@@ -36,6 +36,10 @@ function Nav() {
 
 
             </li>
+            <li>
+              <Link to="/signup">Sign Up</Link>
+            
+            </li>
           </ul>
         </nav>
        

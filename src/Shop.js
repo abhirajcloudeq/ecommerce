@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import {  useNavigate } from 'react-router-dom';
 import './shop.css'; // Import your CSS file
 import { useCartContext } from './Cart';
 
@@ -30,7 +30,6 @@ function Shop() {
       });
   }, []);
 
-  // Limit description to 200 characters
   function truncateDescription(description) {
     if (description.length <= 200) {
       return description;
@@ -55,7 +54,7 @@ function Shop() {
           </div>
         ))}
       </div>
-      <Link to="/order">Proceed to Order</Link>
+      
     </div>
   );
 }

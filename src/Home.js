@@ -1,6 +1,6 @@
 import React from 'react';
 import image1 from './images/image1.jpg';
-import './Home.css'; // Import a CSS file for styling (create Home.css with your styles)
+import './Home.css'; 
 import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
