@@ -15,7 +15,8 @@ function Nav() {
         </div>
         <div className="search">
           <input type="text" placeholder="Search products..." />
-          <button type="submit" onClick={Filter}>Search</button>
+          <button type="submit" 
+          >Search</button>
         </div>
         <nav >
           <ul>
